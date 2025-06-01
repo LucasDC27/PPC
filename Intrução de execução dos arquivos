@@ -1,0 +1,5 @@
+Para o Ompcod.cpp execute o seguinte comando no terminal da pasta que ele se encontra:
+g++ -fopenmp -O2 -o ompcod Ompcod.cpp
+
+Para o Threads.cpp execute o seguinte comando no terminal da pasta que ele se encontra:
+g++ -std=c++17 -O2 -o Threads.exe Threads.cpp 
